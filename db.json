@@ -1,0 +1,69 @@
+{
+  "userInfo" : [
+  {
+    "firstName": "Insoo", 
+    "lastName": "Jeon", 
+    "id": "insoo",
+    "password": "insoo123456!",
+    "email": "jincupia@gmail.com",
+    "nickname": "Harena",
+    "userProfileImg": "/images/user01.png",
+    "adress": "인천시 남동구 장아산로 128번길 22",
+    "detailAdress": "105-601",
+    "favorites": [{"title": "집", "adress": "인천시 남동구 서창동"}, {"title": "회사", "adress": "인천광역시 남동구 1092 55"}],
+    "friends": [
+      "id0001", "id0002", "id0003"
+    ],
+    "authority": "admin",
+    "point": 0
+  }, {
+    "firstName": "Gyuhyun", 
+    "lastName": "Yang", 
+    "id": "id0001",
+    "password": "pw0001!!",
+    "email": "email1@kakao.com",
+    "nickname": "뀨🐇",
+    "userProfileImg": "/images/user02.png",
+    "adress": "인천시 서구 경서동",
+    "detailAdress": "detail-adress",
+    "favorites": [{"title": "집2", "adress": "인천시 서구 경서동"}],
+    "friends": [
+      "insoo", "id0002"
+    ],
+    "authority": "user",
+    "point": 0
+  }, {
+    "firstName": "JaeKyoung", 
+    "lastName": "Cha", 
+    "id": "id0002",
+    "password": "pw0002!!",
+    "email": "email2@naver.com",
+    "nickname": "차차💕",
+    "userProfileImg": "/images/user03.png",
+    "adress": "인천시 중구 인현동",
+    "detailAdress": "detail-adress",
+    "favorites": [{"title": "집3", "adress": "인천시 중구 인현동"}],
+    "friends": [
+      "insoo", "id0003"
+    ],
+    "authority": "user",
+    "point": 0
+  }, {
+    "firstName": "JaeHoon", 
+    "lastName": "Lee", 
+    "id": "id0003",
+    "password": "pw0003!",
+    "email": "email3@gmail.com",
+    "nickname": "후니✨",
+    "userProfileImg": "/images/user04.png",
+    "adress": "인천시 연수구 송도동",
+    "detailAdress": "detail-adress",
+    "favorites": [{"title": "집4", "adress": "인천시 연수구 송도동"}],
+    "friends": [
+      "id0001"
+    ],
+    "authority": "user",
+    "point": 0
+  }
+]
+}
